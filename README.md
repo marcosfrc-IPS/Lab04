@@ -13,7 +13,7 @@
 
 ## Sobre o laboratório
 
-Terceiro laboratório feito em aula, uma aventura no código :P.
+Quarto laboratório feito em aula, uma pequeno quiz :P.
 
 
 ## Autores
